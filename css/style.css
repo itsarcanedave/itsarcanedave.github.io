@@ -37,8 +37,8 @@ i {
 }
 .header .port {
   border-radius: 50%;
-  border: 6px #ccc solid;
-  width: 16%;
+  border: 6px #000 solid;
+  width: 14%;
 }
 .icon-row {
   margin: 45px auto;
