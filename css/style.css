@@ -32,7 +32,7 @@ i {
   background-repeat: no-repeat, repeat;
   /*background-attachment: fixed;*/
   color: #FFF;
-  max-height: 500px;
+  max-height: auto;
   height: 100%;
 }
 .header .port {
