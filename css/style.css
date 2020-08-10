@@ -18,7 +18,7 @@ i {
   height: 100%;
 }
 .fixed-content {
-  width: 1300px;
+  width: auto;
 
   float: none;
   display: block;
@@ -28,16 +28,16 @@ i {
   text-align: center;
 }
 .header {
-  background-image: url('../img/background.png');
+  background-image: url('../img/Wajima.jpg');
   background-repeat: no-repeat, repeat;
   /*background-attachment: fixed;*/
   color: #FFF;
-  max-height: auto;
+  max-height: 500px;
   height: 100%;
 }
 .header .port {
   border-radius: 50%;
-  border: 6px #000 solid;
+  border: 6px #ccc solid;
   width: 16%;
 }
 .icon-row {
